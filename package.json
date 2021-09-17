@@ -2,6 +2,7 @@
     "name": "uv-react-snippets",
     "displayName": "uv-react-snippets",
     "description": "United Virtualities React Snippets - Digital",
+	"icon": "logo.png",
     "version": "0.0.1",
     "publisher": "yracnet",
     "author": {
